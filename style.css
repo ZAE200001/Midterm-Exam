@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  color: rgb(255, 255, 255);
+  padding: 40px;
+}
+
+h1 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 40px;
+}
+
+pre {
+  font-family: "IBM Plex Mono", monospace;
+  color: navy;
+  font-size: 30px;
+}
+
+p {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 18px;
+}
